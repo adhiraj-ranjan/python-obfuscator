@@ -8,7 +8,9 @@ CREDIT - https://github.com/billythegoat356
 Head to : https://github.com/billythegoat356/Hyperion for its features and usage.
 
 This one is a little modified version of the origional code.
+
 1> removed credits from obfuscated code
+
 2> Kind of more stable for different OS 
 
 ### Find Me on :
